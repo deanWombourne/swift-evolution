@@ -2,9 +2,8 @@
 
 * Proposal: [??](0147-either-type.md)
 * Authors: [Sam Dean](https://github.com/deanWombourne)
-* Review Manager: 
-* Status: 
-* Decision Notes:
+* Review Manager: TBD
+* Status: **Awaiting review**
 
 ## Introduction
 
@@ -59,3 +58,7 @@ public extension Either {
     }
 }
 ```
+
+## Source compatibility
+
+This shouldn't impact backwards compatibility at all
